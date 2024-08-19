@@ -1,12 +1,12 @@
 # News Classification Project
 
-This repository contains a news classification project developed as a class. The primary goal of this project is to classify news articles into their respective categories (such as politics, sports, economy, etc.) based on their headlines and content. The data for this project was scraped from one of Turkey's leading news websites.
+This repository contains a news classification project developed as a class. The primary goal of this project is to classify news articles into their respective categories (such as politics, sports, economy, etc.) based on their headlines and content. The data for this project was scraped from one of Turkey's leading news websites, resulting in a comprehensive dataset of 1.4 million news articles..
 
 ### Project Overview
 
 The project involves several key steps:
 
-**Data Collection**: News headlines and articles were scraped from Turkey's top news website. This data serves as the foundation for training our classification model.
+**Data Collection**: A total of 1.4 million news headlines and articles were scraped from Turkey's top news website. This extensive dataset serves as the foundation for training our classification model.
 
 **Data Preprocessing**: The collected news articles were cleaned and preprocessed. This involved removing special characters, converting text to lowercase, removing Turkish stop words, and applying stemming to reduce words to their base form.
 
