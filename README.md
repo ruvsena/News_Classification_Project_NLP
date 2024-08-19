@@ -1,7 +1,8 @@
-#News Classification Project
+#News Classification Project#
+
 This repository contains a news classification project developed as a class. The primary goal of this project is to classify news articles into their respective categories (such as politics, sports, economy, etc.) based on their headlines and content. The data for this project was scraped from one of Turkey's leading news websites.
 
-###Project Overview
+###Project Overview###
 
 The project involves several key steps:
 
