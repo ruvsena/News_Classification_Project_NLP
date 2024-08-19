@@ -251,27 +251,3 @@ y_test_predicted = svm_model.predict(X_test_tfidf)
 # Performans metriğini yazdırma
 print(classification_report(y_test, y_test_predicted, zero_division=1))
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
